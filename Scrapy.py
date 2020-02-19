@@ -12,7 +12,7 @@ class LeMondeItem(Item):
 
 class LeMondeCrawler(CrawlSpider):
     name = 'ejemplo'
-    allowed_domains = ['lemonde.fr']
+    allowed_domains = ['haynoticias']
     start_urls = ['ejemplo']
 
     rules = (
