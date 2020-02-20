@@ -43,3 +43,5 @@ for tweet in tweepy.Cursor(api.user_timeline, screen_name="elruinaversal", tweet
 #Buscar Tweets
 for tweet in tweepy.Cursor(api.search, q="Politica", tweet_mode="extended").items(5):
    print (data)
+    
+    print(data)
