@@ -1,0 +1,17 @@
+[
+    {"text": "Haynoticia", "label": "Fuente no confiable"},
+{"text": "lavozpopular", "label": "Fuente no confiable"},
+{"text": "Retroceso", "label": "Fuente no confiable"},
+{"text": "retroceso", "label": "Fuente no confiable"},
+    {"text": "eldizque", "label": "Fuente no confiable"},
+{"text": "Nacion Unida", "label": "Fuente no confiable"},
+    {"text": "Haynoticias", "label": "Fuente no confiable"},
+    {"text": "ElDeforma", "label": "Fuente no confiable"},
+    {"text": "Deforma", "label": "Fuente no confiable"},
+    {"text": "elruinaversal", "label": "Fuente no confiable"},
+    {"text": "ruinaversal", "label": "Fuente no confiable"},
+    {"text": "eldeforma","label":"Fuente no es confiable"},
+    {"text": "eluniversal" ,"label":"Fuente confiable"},
+    {"text": "ElUniversal" ,"label":"Fuente confiable"},
+    {"text": "Eluniversal" ,"label":"Fuente confiable"}
+]
