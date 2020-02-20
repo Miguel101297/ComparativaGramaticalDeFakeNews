@@ -1,0 +1,10 @@
+[
+    {"text": "futbol", "label": "Deporte"},
+{"text": "AMLO", "label": "Politica"},
+{"text": "Vicente", "label": "Politica"},
+{"text": "Fox", "label": "Politica"},
+    {"text": "Calderon", "label": "Politica"},
+{"text": "Nieto", "label": "Politica"},
+    {"text": "Andres Manuel", "label": "Politica"},
+    {"text": "Eluniversal" ,"label":"Fuente confiable"}
+]
